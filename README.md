@@ -68,6 +68,9 @@
 
 
 
+#  1:16 ratio Compound Gear System
+
+- The left most purple 20 teeth gear is the drive (effort) component that transmits rotation to a small blue 10 teeth gear with a 2:1 ratio. This same case occurs 3 more times. The right most blue 10 teeth, the driven (load) gear will have a 1:16 (2 x 2 x 2 x 2 = 16) gear ratio compared to the drive. Watch the video below :
 
 
 
