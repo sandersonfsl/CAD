@@ -22,10 +22,7 @@
 
     * A 20 tooth gear :
 
-    ![Gear (20 tooth)](gear_ratios/images/Gear_20_tooth.png)
-
-
-    <img src="gear_ratios/images/Gear_20_tooth.png" width=50% height=50%>
+    <img src="gear_ratios/images/Gear_20_tooth.png" width=30% height=30%>
 
 
 
