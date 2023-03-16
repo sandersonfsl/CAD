@@ -20,7 +20,12 @@
 
     * A gear is a rotating circular machine element with teeths which mesh with another toothed part to transmit torque and speed.
 
+    * A 20 tooth gear :
+
     ![Gear (20 tooth)](gear_ratios/images/Gear_20_tooth.png)
+
+
+    <img src="gear_ratios/images/Gear_20_tooth.png" width=50% height=50%>
 
 
 
