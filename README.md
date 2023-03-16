@@ -59,7 +59,7 @@
 
 # Why ?
 
-- 
+- Understand gear ratio definition by creating a compound 1:16 CAD gear system
 
 
 
