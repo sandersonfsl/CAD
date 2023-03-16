@@ -54,7 +54,7 @@
 
     Example :
 
-    <img src="gear_ratios/images/gear_ratio" width=50% height=50%>
+    <img src="gear_ratios/images/gear_ratio.png" width=50% height=50%>
 
 
     
