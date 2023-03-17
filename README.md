@@ -28,7 +28,7 @@
 
     * Diagram :
 
-    <img src="trammel_of_archimedes/images/diagram.png" width=50% height=50%>
+    <img src="trammel_of_archimedes/images/diagram.png" width=35% height=35%>
 
 
     * In the diagram the point C is the Handle Pin (cutter, writer object)
