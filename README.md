@@ -46,7 +46,7 @@
         -> considering AB the distance between A to B an BC the the distance between B to C
 
 
-    * This explicit the ellipse equation :
+    * This explicits the ellipse equation :
 
         X²/(AB + BC)² + y²/(BC)² = 1
 
