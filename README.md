@@ -4,6 +4,34 @@
 
 
 
+## TRAMMEL OF ARCHIMEDES
+
+(trammel_of_archimedes folder)
+
+- CAD PROJECT : https://cad.onshape.com/documents/5d519261d39480528aebefb5/w/44c3121f395301a8622d56e4/e/ace2d5bc2dce2d808f341669
+
+
+
+# About This Project :
+
+" This project is a computer-aided desing (CAD) to show a trammel of archimedes, also know as an elipsograph "
+
+
+- What is a Trammel of Archimedes :
+
+    * An ancient mechanism believed to date back the time of Archimedes
+
+    * A machine made to cut, draw in form of an ellipses 
+
+
+- 
+
+
+
+
+
+
+
 ## GEAR RATIOS
 
 (gear_ratios folder)
