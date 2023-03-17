@@ -24,7 +24,33 @@
     * A machine made to cut, draw in form of an ellipses 
 
 
-- 
+- Mathematics behind it :
+
+    * Diagram :
+
+    <img src="trammel_of_archimedes/images/diagram.png" width=50% height=50%>
+
+
+    * In the diagram the point C is the Handle Pin (cutter, writer object)
+
+    * A and B are the two sliders 
+
+    * Slider A move along the y coordinate and slider B move along the x coordinate
+
+    * Considering the Handle makes a θ angle with the x-axis, the exact location coordinate of the Handle pin C is :
+
+        x = (AB + BC) x  cosθ    
+
+        y = BC x sinθ
+        
+        -> considering AB the distance between A to B an BC the the distance between B to C
+
+
+    * This explicit the ellipse equation :
+
+        X²/(AB + BC)² + y²/(BC)² = 1
+
+
 
 
 
