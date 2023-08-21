@@ -165,4 +165,4 @@ CAD project : https://cad.onshape.com/documents/0e7143d8a98817d7568edfb6/w/65fca
 
 - 3D printed
 
-<img src="3d_gearbox/images/3d_gear_box.png" width=50% height=50%>
+<img src="3d_gearbox/images/3d_gear_box.jpg" width=50% height=50%>
