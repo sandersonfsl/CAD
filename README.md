@@ -135,3 +135,34 @@
 
 
 [1_16_compound_gear_system.webm](https://user-images.githubusercontent.com/100845104/225464660-dc17dfb3-6d93-4071-925b-a7591c9b6b76.webm)
+
+
+
+
+## 3D Gearbox
+
+
+
+# About This Project :
+
+This project is a 3d printed design using computer-aided design (CAD) to help the understanding of a manual gearbox transmission
+
+
+CAD project : https://cad.onshape.com/documents/0e7143d8a98817d7568edfb6/w/65fca951e6c6cd121c4c2304/e/214ef6d1ada9082bb7527fbd
+
+
+- What is a manual gearbox transmission :
+
+    * A gearbox that enables the user to choose between different gear ratios. 
+
+    * Lower gear ratios offer more torque, less speed. Higher gear ratios offer less torque, higher speed.
+
+
+
+- CAD Assembly
+<img src="3d_gearbox/images/gear_box.png" width=50% height=50%>
+
+
+- 3D printed
+
+<img src="3d_gearbox/images/3d_gear_box.png" width=50% height=50%>
