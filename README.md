@@ -160,7 +160,7 @@ CAD project : https://cad.onshape.com/documents/0e7143d8a98817d7568edfb6/w/65fca
 
 
 - CAD Assembly
-<img src="3d_gearbox/images/complete_assembply.png" width=75% height=75%>
+<img src="3d_gearbox/images/complete_assembly.png" width=75% height=75%>
 
 
 - 3D printed
